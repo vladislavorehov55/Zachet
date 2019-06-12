@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="rules">Правила игры</string>
+    <string name="rules_content">В этой игре необходимо на время в порядке возрастания добавлять цифры, которые изображены на кнопках, в мешок. Добавление происходит путем клика на Соответсвующую кнопку. На легком уровне сложности время, которое дается на игру составляет 1 минуту, на среднем - 30 секунд, на сложном - 15 секунд</string>
+    <string name="game_result_1">Вы проиграли!</string>
+    <string name="game_result_2">Поздравляю, вы выиграли!</string>
+    <string name="label_to_list">Выбранные элементы</string>
+    <string name="btn_1">Начать заново</string>
+    <string name="error">Вам необходимо выбрать уровень перед началом игры</string>
+</resources>

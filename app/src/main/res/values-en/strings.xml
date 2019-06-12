@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="rules">Rules of the game</string>
+    <string name="rules_content">In this game you need to the time in ascending order, add the numbers shown on the buttons in the bag. Adding is done by clicking on the Appropriate button. On the easy difficulty level, the time given for the game is 1 minute, on average - 30 seconds, on the difficult - 15 seconds</string>
+    <string name="game_result_1">You lose</string>
+    <string name="game_result_2">Congratulations, you won!</string>
+    <string name="label_to_list">Selected element</string>
+    <string name="btn_1">Restart</string>
+    <string name="error">You need to select a level before the game starts</string>
+</resources>
